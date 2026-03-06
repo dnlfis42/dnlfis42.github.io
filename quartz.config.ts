@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "ko-KR",
     baseUrl: "dnlfis42.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [".obsidian", "_"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

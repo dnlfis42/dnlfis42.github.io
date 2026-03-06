@@ -1,5 +1,7 @@
 ---
 title: Test
+aliases:
+  - Test
 ---
 # H1
 ## H2
@@ -38,4 +40,4 @@ cout << "CPP CODEBLOCK" << endl;
 | ----- | ---- |
 | !     | ?    |
 
-[[blog/index|Home]]
+[[index|Home]]
