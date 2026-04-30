@@ -1,5 +1,5 @@
 baseURL: https://dnlfis42.github.io/
-languageCode: ko-kr
+locale: ko-KR
 title: dnlf≡42
 theme: PaperMod
 
