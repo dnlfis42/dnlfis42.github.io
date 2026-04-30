@@ -1,5 +1,6 @@
 content/.obsidian
 public/
 resources/
+static/about.txt
 
 .hugo_build.lock
