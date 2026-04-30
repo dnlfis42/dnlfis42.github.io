@@ -3,6 +3,11 @@ locale: ko-KR
 title: dnlf≡42
 theme: PaperMod
 
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+
 outputs:
   home:
     - HTML
@@ -22,9 +27,15 @@ menu:
     - name: 글 목록
       url: /archives
       weight: 1
+    - name: 카테고리
+      url: /categories
+      weight: 2
+    - name: 시리즈
+      url: /series
+      weight: 3
     - name: 태그
       url: /tags
-      weight: 2
+      weight: 4
     - name: 검색
       url: /search
-      weight: 3
+      weight: 5
