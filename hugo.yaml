@@ -1,0 +1,24 @@
+baseURL: https://dnlfis42.github.io/
+languageCode: ko-kr
+title: dnlf≡42
+theme: PaperMod
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+
+menu:
+  main:
+    - name: 글 목록
+      url: /archives
+      weight: 1
+    - name: 태그
+      url: /tags
+      weight: 2
+    - name: 검색
+      url: /search
+      weight: 3
