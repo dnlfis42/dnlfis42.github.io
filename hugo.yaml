@@ -21,6 +21,25 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowToc: true
+  comments: true
+
+  assets:
+    favicon: /favicon.ico
+    favicon16x16: /favicon-16x16.png
+    favicon32x32: /favicon-32x32.png
+
+  giscus:
+    repo: dnlfis42/dnlfis42.github.io
+    repoId: R_kgDOSQu3nw
+    category: Announcements
+    categoryId: DIC_kwDOSQu3n84C8DBY
+    mapping: pathname
+    strict: "0"
+    reactionsEnabled: "1"
+    emitMetadata: "0"
+    inputPosition: bottom
+    theme: preferred_color_scheme
+    lang: ko
 
 menu:
   main:
